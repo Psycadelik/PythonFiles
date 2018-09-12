@@ -1,0 +1,21 @@
+pear
+apple
+orange
+mandarin
+watermelon
+pomegranate
+1
+2
+3
+
+line 1line 2
+Je voudrais a Paris!
+
+Oui monsieur Adrian
+
+line3
+line 1
+line 2
+line 3
+
+
